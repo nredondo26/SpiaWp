@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">SpiaWp</string>
+    <string name="accessibility_service_label">SpiaWp</string>
+    <string name="accessibility_service_description">App para monitorear</string>
+</resources>
+
+
